@@ -7,6 +7,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            int age = 12;// the best age
+            int dsafds = 123;
         }
     }
 }
