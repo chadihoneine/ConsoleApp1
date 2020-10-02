@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             int age = 12;// the best age
-            int dsafds = 123;
+            String msg = "hi chadi";
         }
     }
 }
